@@ -1,6 +1,6 @@
 # PhD Stipend & Loan Budget Planner — public demo (Grad-IQ)
 
-Live demo: https://saletra40-a11y.github.io/phd-stipend-loan-planner/
+Live demo: https://gradiq.github.io/phd-stipend-loan-planner/
 
 This is the **demo-only** edition. It runs on sample data, saves nothing, and has no export/import. The full planner (saves in your browser, JSON backup/restore, CSV export, print) is sold separately as a download.
 
